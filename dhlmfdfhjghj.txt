@@ -1,7 +1,7 @@
 ! Title: dhlmfdfhjghj
 ! Description: random things
-! Version: 2026.02.26
-! Last modified: 2026.02.26 17:17
+! Version: 2026.03.12
+! Last modified: 2026.03.12 21:43
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/Gomzumi/dhlmfdfhjghj
 
@@ -28,3 +28,5 @@ reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shr
 reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > left-nav-top-section:first-child > li.relative.list-none.mt-0.left-nav-create-community-button:last-child > div.flex.justify-between.relative.px-md.gap-\[0\.5rem\].text-secondary.hover\:text-secondary-hover.active\:bg-interactive-pressed.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-2xs.-outline-offset-1.s\:rounded-2.bg-transparent > span.flex.items-center.gap-xs.min-w-0.shrink:first-child > span.flex.shrink-0.items-center.justify-center.h-xl.w-xl.text-20.leading-4:first-child > svg
 reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > left-nav-top-section:first-child > li.relative.list-none.mt-0.left-nav-create-community-button:last-child > div.flex.justify-between.relative.px-md.gap-\[0\.5rem\].text-secondary.hover\:text-secondary-hover.active\:bg-interactive-pressed.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-2xs.-outline-offset-1.s\:rounded-2.bg-transparent
 reddit.com###main-content > div:last-child > shreddit-feed.nd\:visible:last-child > faceplate-batch:nth-child(12) > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(3)
+reddit.com###data-protection-consent-dialog > rpl-modal-card
+reddit.com###right-sidebar-contents
