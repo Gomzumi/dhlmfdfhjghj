@@ -1,10 +1,11 @@
 ! Title: dhlmfdfhjghj
 ! Description: random things
 ! Version: 2026.06.15
-! Last modified: 2026.06.15 10:39
+! Last modified: 2026.06.15 10:42
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/Gomzumi/dhlmfdfhjghj
 
+||beyondwords.io^
 www.youtube.com##ytd-shelf-renderer:has([href^="/playables"])
 www.youtube.com##ytd-guide-entry-renderer:has([href="/playables"])
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text(Playables)
