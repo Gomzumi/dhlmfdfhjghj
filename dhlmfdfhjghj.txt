@@ -1,7 +1,7 @@
 ! Title: dhlmfdfhjghj
 ! Description: random things
-! Version: 2026.06.15.1
-! Last modified: 2026.06.15 10:45
+! Version: 2026.06.18
+! Last modified: 2026.06.18 11:02
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/Gomzumi/dhlmfdfhjghj
 
@@ -31,3 +31,12 @@ reddit.com###data-protection-consent-dialog > rpl-modal-card
 reddit.com###main-content > div:last-child > shreddit-feed.nd\:visible:last-child > faceplate-batch:nth-child(13) > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(3)
 ||partner-ads.com^
 twitch.tv###root > div.Layout-sc-1xcs6mc-0.bBgSPF:first-child > div.Layout-sc-1xcs6mc-0.hodpZn:first-child > div.Layout-sc-1xcs6mc-0.iSpCDu:nth-child(3) > article.Layout-sc-1xcs6mc-0.iobpzz
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(38)
+reddit.com###feed-tab-1 > span.inline-flex:first-child > span.inline-flex.flex-row.items-center.gap-xs.py-\[0\.625rem\]:first-child > span
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(11)
+reddit.com###games_section > div.flex.mt-2xs.mb-xs:first-child > faceplate-tracker.block.w-full > faceplate-tracker.block.w-full > a.decoration-none.hover\:no-underline.hover\:text-inherit > games-section-badge-wrapper
+reddit.com###left-sidebar > nav.z-2.box-border.flex.flex-col.mt-0.mb-0.pt-md.shrink-0.s\:shrink.w-full.min-h-screen-without-header.select-none > faceplate-tracker:nth-child(4) > games-section-badge-controller.nd\:visible > faceplate-expandable-section-helper > details.p-0.m-0.bg-transparent.border-none.rounded-none > summary.font-normal:first-child > li.relative.list-none.mt-0:first-child > div.flex.justify-between.relative.px-md.gap-xs.text-secondary.hover\:text-secondary-hover.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-2xs.-outline-offset-1.bg-transparent.s\:rounded-2
+reddit.com###games_section > faceplate-tracker:last-child > li.relative.list-none.mt-0 > a.flex.justify-between.relative.px-md.gap-xs.text-secondary.hover\:text-secondary-hover.active\:bg-interactive-pressed.hover\:bg-neutral-background-hover.hover\:no-underline.cursor-pointer.py-2xs.-outline-offset-1.s\:rounded-2.bg-transparent.no-underline
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17) > h3.font-bold.text-16.xs\:text-18.m-0.mt-2xs.mb-xs:first-child
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17) > show-more-grid.nd\:visible.contents:nth-child(2) > div.contents:first-child > div.flex.flex-wrap.gap-x-sm
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17)
