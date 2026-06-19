@@ -1,7 +1,7 @@
 ! Title: dhlmfdfhjghj
 ! Description: random things
-! Version: 2026.06.18
-! Last modified: 2026.06.18 11:02
+! Version: 2026.06.19
+! Last modified: 2026.06.19 12:06
 ! Expires: 2 weeks (update frequency)
 ! Homepage: https://github.com/Gomzumi/dhlmfdfhjghj
 
@@ -40,3 +40,4 @@ reddit.com###games_section > faceplate-tracker:last-child > li.relative.list-non
 reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17) > h3.font-bold.text-16.xs\:text-18.m-0.mt-2xs.mb-xs:first-child
 reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17) > show-more-grid.nd\:visible.contents:nth-child(2) > div.contents:first-child > div.flex.flex-wrap.gap-x-sm
 reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(17)
+reddit.com###interest-home-feed-main > shreddit-feed.nd\:visible.flex.flex-col.bg-neutral-background.rounded-t-4.overflow-hidden:last-child > in-feed-community-recommendations.nd\:visible.flex.flex-col.px-md.py-2xs.my-2xs:nth-child(3)
